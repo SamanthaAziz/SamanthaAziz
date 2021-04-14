@@ -10,7 +10,7 @@ Using Unity, I design data collection protocols that elicit and collect a variet
 Using R, MATLAB, and Python, I characterize eye movement data based on metrics like accuracy, precision, linearity, and crosstalk. My data quality assessment is compatible with both 2D and 3D eye movement data.
 I assess and compare the quality of data collected across a variety of platforms. Through my analysis, I discover quirks about an eye tracker that are otherwise not documented.
 ### Deep Learning Approach to Biometric Authentication
-Python, PyTorch. See our [publication](https://ieeexplore.ieee.org/document/9304859) for an in-depth explanation.
+Python, PyTorch. See our [publication](https://ieeexplore.ieee.org/document/9304859) for a deep dive into eye movement biometrics.
 
 <!---
 SamanthaAziz/SamanthaAziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
